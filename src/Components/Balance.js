@@ -2,7 +2,7 @@ import React from 'react';
 
 function Balance(){
     return(
-        <div>
+        <div className="balance">
             <h3>Your Balance</h3>
             <h2>$000.00</h2>
         </div>

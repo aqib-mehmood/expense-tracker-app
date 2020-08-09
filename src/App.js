@@ -8,8 +8,8 @@ import NewTransaction from './Components/NewTransction';
 
 function App() {
   return (
-    <div>
-      <Header></Header>
+    <div className="container">
+      <Header></Header><br/>
       <Balance></Balance>
       <IncomeExpense></IncomeExpense>
       <History></History>

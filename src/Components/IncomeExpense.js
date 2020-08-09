@@ -2,7 +2,7 @@ import React from 'react'
 
 function IncomeExpense(){
     return(
-        <div>
+        <div className="income_expense">
             <div className="income">
                 <h3>Income</h3>
                 <h2>$000.00</h2>
